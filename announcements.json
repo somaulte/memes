@@ -2,10 +2,10 @@
   "announcements":[
     {
       "date": "06.24.2018",
-      "title": "Custom Announcements installed!",
+      "title": "Hell yeah!",
       "subtitle": "How to add announcements",
       "content": "With your favorite text editor, open '/mods/ui/web/screens/title.js'.<br />Below the 2 URLs at the top, add any sources you like (in quotes). Don't forget to add commas at the ends!<br />The last source should not have a comma.<br /><br />- xXx420weed69xXx",
-      "background": "https://raw.githubusercontent.com/somaulte/memes/master/imgs/welcome_03.jpg"           
+      "background": "dew://assets/announcements/welcome_02.jpg"
     }
   ]
 }
